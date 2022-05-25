@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ashura-senpai
-- 👀 I’m interested in league of legends
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on something? idk
-- 📫 How to reach me: rorikemp@gmail.com
+- 👋 Oi, sou o @ashura-senpai
+- 👀 Gosto muito de league of legends, anime e desenhar
+- 🌱 Atualmente estudando HTML, CSS & React
+- 📚 Cursando Engenharia de Software
+- 🤓 Procurando emprego
+- 📫 Contato: rorikemp@gmail.com
 
 <!---
 ashura-senpai/ashura-senpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
