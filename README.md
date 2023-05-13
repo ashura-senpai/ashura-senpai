@@ -1,8 +1,8 @@
-- 👋 Oi, sou o Ashuraa
-- 👀 Gosto muito de league of legends, anime e desenhar
-- 🌱 Estudei HTML, CSS & React
-- 📚 Cursando Engenharia de Software na Unicesumar
-- 🤓 Procurando emprego/estágio
+- 👋 Oi, sou o Henrique (Ashuraa).
+- 👀 Gosto muito de league of legends, anime e desenhar.
+- 🌱 Estudei HTML & CSS
+- 📚 Cursando Engenharia de Software na Unicesumar.
+- 🤓 Procurando emprego/estágio.
 - 📫 Contato: rorikemp@gmail.com
 
 <!---
